@@ -18,7 +18,7 @@
 
 ## Сборка из исходников
 ```bash
-git clone https://github.com/<you>/weather-app.git
+git clone https://github.com/Yarik528/weather-app.git
 cd weather-app
 python3 scripts/gen_icons.py     # генерирует PNG-иконки лаунчера
 ./gradlew assembleDebug          # debug APK
